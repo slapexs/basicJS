@@ -8,3 +8,5 @@
 > 4. Object
 > 5. Spread & rest operator
 > 6. Class
+
+![Image](https://i.imgur.com/qUO5zwj.jpg)
